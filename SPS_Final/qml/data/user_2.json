@@ -1,0 +1,62 @@
+{
+        "id":456,
+        "passward":"moon",
+        "id_str":"456",
+        "username":"sun",
+        "profile_image":"../../assets/h_2.png",
+        "personal_signature":"you are a sun!!",
+        "invitation_num":3,
+        "invitation":[{
+        "v_id":0,
+        "username":"sun",
+        "profile_image":"../../assets/h_2.png",
+        "descibe":"qqqqqqq3",
+        "images_num":5,
+        "heart_num":1,
+        "tag_num":2,
+        "images":[
+            "../../assets/13.jpg",
+            "../../assets/14.jpg",
+            "../../assets/15.jpg",
+            "../../assets/16.jpg",
+            "../../assets/17.jpg"
+        ],
+        "tag":["#1","#2"],
+        "position":"chongqing"
+    },
+    {
+        "v_id":1,
+        "username":"sun",
+        "profile_image":"../../assets/h_2.png",
+        "descibe":"qqqqqqq2",
+        "images_num":3,
+        "heart_num":1,
+        "tag_num":2,
+        "images":[
+            "../../assets/10.jpg",
+            "../../assets/11.jpg",
+            "../../assets/12.jpg"
+        ],
+        "tag":["#1","#2"],
+        "position":"chongqing"
+            },
+            {           "v_id":2,
+            "username":"sun",
+            "profile_image":"../../assets/h_3.png",
+                        "descibe":"qqqqqqq3",
+                        "images_num":3,
+                        "heart_num":1,
+                        "tag_num":2,
+                        "images":[
+                            "../../assets/7.jpg",
+                            "../../assets/8.jpg",
+                            "../../assets/9.jpg"
+                        ],
+                        "tag":["#1","#2"],
+                        "position":"chongqing"
+                    }],
+"fans_nums":3,
+"fans":[{},{},{}],
+"follow_nums":3,
+"follow":[{},{},{}]
+}

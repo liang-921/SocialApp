@@ -1,0 +1,86 @@
+{
+    "fans": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "fans_nums": 3,
+    "follow": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "follow_nums": 3,
+    "id": 123,
+    "id_str": "123",
+    "invitation": [
+        {
+            "descibe": "qqqqqqq1",
+            "heart_num": 1,
+            "images": [
+                "../../assets/0.png",
+                "../../assets/1.png",
+                "../../assets/3.png"
+            ],
+            "images_num": 3,
+            "position": "chongqing",
+            "profile_image": "../../assets/h_1.png",
+            "tag": [
+                "#1",
+                "#2"
+            ],
+            "tag_num": 2,
+            "username": "moon",
+            "v_id": 0
+        },
+        {
+            "descibe": "qqqqqqq2",
+            "heart_num": 1,
+            "images": [
+                "../../assets/2.png",
+                "../../assets/4.jpg",
+                "../../assets/6.jpg"
+            ],
+            "images_num": 3,
+            "position": "chongqing",
+            "profile_image": "../../assets/h_1.png",
+            "tag": [
+                "#1",
+                "#2"
+            ],
+            "tag_num": 2,
+            "username": "moon",
+            "v_id": 1
+        },
+        {
+            "descibe": "qqqqqqq3",
+            "heart_num": 1,
+            "images": [
+                "../../assets/7.jpg",
+                "../../assets/8.jpg",
+                "../../assets/9.jpg"
+            ],
+            "images_num": 3,
+            "position": "chongqing",
+            "profile_image": "../../assets/h_1.png",
+            "tag": [
+                "#1",
+                "#2"
+            ],
+            "tag_num": 2,
+            "username": "moon",
+            "v_id": 2
+        }
+    ],
+    "invitation_num": 3,
+    "passward": "moon",
+    "personal_signature": "balablaxiaomoxianquanshenbian",
+    "profile_image": "../../assets/h_1.png",
+    "username": "yyyy"
+}
